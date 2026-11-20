@@ -193,11 +193,11 @@ def draw_banner(c):
 
 
 def draw_captions(c):
-    centered(c, "AGEN AI-KU KEBURU", (540, 97), 79, 908)
-    centered(c, "MASUK FINAL LOMBA", (540, 181), 87, 908)
-    centered(c, "BERHADIAH DI make.fun", (540, 269), 80, 910, fill=TEAL)
+    centered(c, "MY AI AGENT MADE", (540, 97), 79, 908)
+    centered(c, "THE FINAL OF A PRIZE", (540, 181), 87, 908)
+    centered(c, "TOURNAMENT ON make.fun", (540, 269), 80, 910, fill=TEAL)
     # Set the punch line in large, uninterrupted lettering for mobile feeds.
-    centered(c, "SEBELUM GTA 6 RILIS", (540, 940), 105, 920, fill=GOLD)
+    centered(c, "STILL NO GTA 6", (540, 940), 105, 920, fill=GOLD)
 
 
 def main():
